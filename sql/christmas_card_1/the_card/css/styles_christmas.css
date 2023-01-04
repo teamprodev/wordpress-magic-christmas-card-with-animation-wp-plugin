@@ -1,0 +1,1154 @@
+body {
+width:100%;
+/*background-color:#000b86;
+height:100%;
+overflow: hidden;
+position: fixed;*/
+}
+* {
+padding:0;
+margin:0;
+}
+
+.the_card_1_wrapper {
+	display: none;
+	width:100%;
+	height:100%;
+	min-height:650px;/**/
+	overflow: hidden;
+	/*border:1px solid #FF0000;*/
+	position:relative;
+	background-color:#000b86;
+}
+
+.appleLinks a {color:#8c3f59; text-decoration: none;}
+
+
+.MerryChristmasBox {
+	position: absolute;
+	width: 105%;
+	left:50%; top:2%; -webkit-transform: translate(-50%, 2%);  -ms-transform:translate(-50%, 2%);  transform: translate(-50%, 2%);
+	z-index:4;
+}
+
+.MerryChristmasBox:before {
+	content: "";
+	display: block;
+	padding-top: 21%;
+}
+
+
+
+.MerryChristmas {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 9px;
+	bottom: 0;
+	z-index:2;
+}
+
+.MerryChristmasBg {
+	position: absolute;
+	width:50%;
+	padding-top: 11%;
+	left:50%; top:0%; -webkit-transform: translate(-50%, 0%);  -ms-transform:translate(-50%, 0%);  transform: translate(-50%, 0%);/**/
+	z-index:2;
+	background:url(../images/savethedate.svg);
+	background-position: center 0;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 45px;
+	line-height:70px;
+ 	font-family: 'Limelight', cursive;
+	font-weight: normal;
+	text-align:center;
+	color:#FFFFFF;
+	margin:0 !important;
+	padding:0 !important;
+}
+
+
+.the_card_1_wrapper h2 {
+	font-size: 35px;
+	line-height:50px;
+	font-family: 'Tangerine', cursive;
+	text-align:center;
+	font-weight: bold;
+	color:#954a63;
+	margin:0 !important;
+	padding:0 !important;
+}
+
+.the_card_1_wrapper h3 {
+	margin-left:-2.2%;
+	/*left:50%; top:25%; -webkit-transform: translate(-50%, 25%);  -ms-transform:translate(-50%, 25%);  transform: translate(-50%, 25%);*/
+	font-size: 88px;
+	line-height:88px;
+	font-weight:normal;
+	font-family: 'Tangerine', cursive;
+	text-align:center;
+	color:#FFFFFF;
+	margin:0 !important;
+	padding:0 !important;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 19px;
+	line-height:25px;
+	font-family: 'Yeseva One', cursive;
+	font-weight: normal;
+	text-align:center;
+	color:#8c3f59;
+	margin:0 !important;
+	padding:0 !important;
+}
+
+.the_card_1_wrapper h5 {
+	font-size: 15px;
+	line-height:25px;
+	font-family: 'Yeseva One', cursive;
+	font-weight: normal;
+	text-align:center;
+	color:#8c3f59;
+	margin:8px 0px 0px 0px !important;
+	padding:0 !important;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 15px;
+	line-height:23px;
+	font-family: 'Yeseva One', cursive;
+	font-weight: normal;
+	text-align:center;
+	color:#8c3f59;
+	margin:0 !important;
+	padding:0 !important;
+}
+
+
+
+.christmasAdressBox {
+	position: absolute;
+	width: 100%;
+	padding-top: 23%;
+	left:50%; bottom:6%; -webkit-transform: translate(-50%, 6%);  -ms-transform:translate(-50%, 7%);  transform: translate(-50%, 6%);
+	z-index:4;
+}
+
+
+
+.christmasSocialBox {
+	position: absolute;
+	left:20px;
+	top:1.8%;
+	z-index:100000;
+}
+
+.christmasSocialBox ul {text-align:left; margin: 0px !important; padding: 0px !important; }
+.christmasSocialBox ul li { display:block; padding: 0px 0px 3px 0px  !important;; margin: 0 !important;}
+
+.christmasSocial img {
+	text-align:center;
+	max-width:23px;
+	max-height:23px;
+}
+
+.christmasSocialBox ul li a {
+	filter:alpha(opacity=60);
+	-moz-opacity:0.6;
+	-khtml-opacity: 0.6;
+	opacity: 0.6;
+	-moz-transition: all .2s ease-in;
+	-o-transition: all .2s ease-in;
+	-webkit-transition: all .2s ease-in;
+	transition: all .2s ease-in;
+	text-decoration:none;
+}
+
+.christmasSocialBox ul li a:hover {
+	opacity: 1;
+    filter: alpha(opacity=100);
+}
+
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+
+
+
+.christmasCharacters {
+	position:absolute;
+	overflow:hidden;
+	width:100%;
+	height:0;
+	padding-top:40%;
+	left:50%; top:50%; -webkit-transform: translate(-50%, -50%);/* Chrome, Safari, Opera */ -ms-transform:translate(-50%, -50%);/* IE 9 */ transform: translate(-50%, -50%);
+	z-index:4;
+}
+
+.christmasCarriageBox {
+	position: absolute;
+	width: 31%;
+	bottom:-5%;
+	left:19.5%;
+	z-index:3;
+}
+
+.christmasCarriageBox:before {
+	content: "";
+	display: block;
+	padding-top: 100%;
+}
+
+.christmasCarriage {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	z-index:4;
+
+	background: url(../images/SantaOK2.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+	-webkit-animation: xchristmasCarriage 1.0s steps(6) infinite;
+	animation: xchristmasCarriage 1.0s steps(6) infinite;
+
+	-webkit-animation-fill-mode: both; /* Chrome, Safari, Opera */
+	animation-fill-mode: both;
+
+	transition: all 0.5s ease;
+
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	backface-visibility: hidden;
+
+	-webkit-perspective: 1000;
+	-moz-perspective: 1000;
+	-ms-perspective: 1000;
+	perspective: 1000;
+
+}
+
+@-webkit-keyframes christmasCarriage {
+	from { background-position: 0 0%; }
+	to { background-position: 0 100%; }
+}
+
+@keyframes christmasCarriage {
+	from { background-position: 0 0%; }
+	to { background-position: 0 100%; }
+}
+
+
+
+
+
+
+
+
+
+
+
+/******************************************/
+.christmasHorseBox {
+	position: absolute;
+	width: 32%;
+  	bottom:14%;
+	left:42.9%;
+	z-index:4;
+}
+
+.christmasHorseBox:before {
+	content: "";
+	display: block;
+	/*padding-top:76.30769230769231%;*/
+	padding-top:83.07692307692308%;
+}
+
+
+.Xno-flick{-webkit-transform:translate3d(0,0,0); transform:translate3d(0,0,0);}
+
+.christmasHorse {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: url(../images/reindeer/christmas-reindeer.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	-webkit-perspective: 1000;
+-webkit-backface-visibility: hidden;
+
+	-webkit-animation: christmasHorse 1.4s steps(20) infinite;
+	animation: christmasHorse 1.4s steps(20) infinite;
+
+	-webkit-animation-fill-mode: forwards; /* Chrome, Safari, Opera */
+	animation-fill-mode: both;
+}
+
+/**/
+@-webkit-keyframes christmasHorse {
+	0 { background-position: 0 0%;}
+	100% { background-position: 0 100%;}
+}
+
+@keyframes christmasHorse {
+	0 { background-position: 0 0%;}
+	100% { background-position: 0 100%;}
+}
+
+
+
+
+
+
+.sidewalk {
+	position:absolute;
+	overflow:hidden;
+	/*left:50%; top:50%; -webkit-transform: translate(-50%, 25%);-ms-transform:translate(-50%, 25%);transform: translate(-50%, 25%);*/
+	left:0;
+	bottom:0;
+	z-index:3;
+	width: 100%;
+	height: 0px;
+	padding-top:100%;
+}
+
+.pinkdiv {
+	position:fixed;
+	overflow:hidden;
+	/*left:50%; top:50%; -webkit-transform: translate(-50%, 25%);-ms-transform:translate(-50%, 25%);transform: translate(-50%, 25%);*/
+	left:0;
+	top:0;
+	z-index:0;
+	width: 100%;
+	height: 0px;
+	padding-bottom:36%;
+}
+
+.christmasStreetBox {
+	position:absolute;
+	left:50%; top:50%; -webkit-transform: translate(-50%, -46%);/* Chrome, Safari, Opera */ -ms-transform:translate(-50%, -46%);/* IE 9 */ transform: translate(-50%, -46%);
+	z-index:3;
+	width: 100%;
+	height: 0;
+	padding-bottom: 29.0%;
+	overflow:hidden;
+}
+
+
+
+
+/***************************************/
+
+.christmasStreet1 {
+	z-index:3;
+	position:absolute;
+	visibility:hidden;
+	width:100%;
+	height:0;
+	padding-bottom: 25.0%;
+	left:0%;
+	bottom:0%;
+	background: url(../images/christmas_street_e7edff.svg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+
+	transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	-webkit-transform: translate3d(0,0,0);
+	-ms-transform: translate3d(0,0,0);
+
+	/*-moz-animation:christmasStreet1 145s linear infinite;
+	-webkit-animation:christmasStreet1 145s linear infinite;*/
+
+
+	-webkit-animation-name: christmasStreet1;
+	-moz-animation-name: christmasStreet1;
+	animation-name: christmasStreet1;
+	-ms-animation-name: christmasStreet1;
+
+	-webkit-animation-duration: 52s;
+	-moz-animation-duration: 52s;
+	animation-duration: 52s;
+	-ms-animation-duration: 52s;
+
+	-webkit-animation-timing-function: linear;
+	-moz-animation-timing-function: linear;
+	animation-timing-function: linear;
+	-ms-animation-timing-function: linear;
+
+	-webkit-animation-iteration-count: infinite;
+	-moz-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+	-ms-animation-iteration-count: infinite;
+
+	-webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+	-ms-animation-fill-mode: forwards;
+}
+
+
+@-moz-keyframes christmasStreet1 {
+	0%  { transform: translate3d(0%,0,0); -webkit-transform: translate3d(0%,0,0); visibility:visible;}
+	50%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden; opacity:1;}
+	50.001%  { transform: translate3d(-100%,500%,0); -webkit-transform: translate3d(-100%,500%,0); visibility:hidden;opacity:0; }
+
+	50.002%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0); visibility:visible; opacity:1; }
+	100%  { transform: translate3d(-0.01%,0,0); -webkit-transform: translate3d(-0.01%,0,0);  visibility:visible; opacity:1;}
+}
+
+@-webkit-keyframes christmasStreet1 {
+	0%  { transform: translate3d(0%,0,0); -webkit-transform: translate3d(0%,0,0); visibility:visible;}
+	50%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden; opacity:1;}
+	50.001%  { transform: translate3d(-100%,500%,0); -webkit-transform: translate3d(-100%,500%,0); visibility:hidden;opacity:0; }
+
+	50.002%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0); visibility:visible; opacity:1; }
+	100%  { transform: translate3d(-0.01%,0,0); -webkit-transform: translate3d(-0.01%,0,0);  visibility:visible; opacity:1;}
+}
+
+@-ms-keyframes christmasStreet1 {
+	0%  { -ms-transform: translate3d(0%,0,0); visibility:visible;}
+	50%  { -ms-transform: translate3d(-100%,0,0); visibility:hidden; opacity:1;}
+	50.001%  { -ms-transform: translate3d(-100%,500%,0); visibility:hidden;opacity:0; }
+
+	50.002%  { -ms-transform: translate3d(100%,0,0); visibility:visible; opacity:1; }
+	100%  { -ms-transform: translate3d(-0.01%,0,0);  visibility:visible; opacity:1;}
+}
+
+
+
+
+
+
+
+
+
+
+.christmasStreet2 {
+	z-index:3;
+	position:absolute;
+	visibility:hidden;
+	width:100%;
+	height:0;
+	padding-bottom: 25.0%;
+	left:0%;
+	bottom:0%;
+	background: url(../images/christmas_street_e7edff.svg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+
+	transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	-webkit-transform: translate3d(0,0,0);
+
+	/*-moz-animation:christmasStreet2 145s linear infinite;
+	-webkit-animation:christmasStreet2 145s linear infinite;*/
+
+	-webkit-animation-name: christmasStreet2;
+	-moz-animation-name: christmasStreet2;
+	animation-name: christmasStreet2;
+	-ms-animation-name: christmasStreet2;
+
+	-webkit-animation-duration: 52s;
+	-moz-animation-duration: 52s;
+	animation-duration: 52s;
+	-ms-animation-duration: 52s;
+
+	-webkit-animation-timing-function: linear;
+	-moz-animation-timing-function: linear;
+	animation-timing-function: linear;
+	-ms-animation-timing-function: linear;
+
+	-webkit-animation-iteration-count: infinite;
+	-moz-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+	-ms-animation-iteration-count: infinite;
+
+	-webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+	-ms-animation-fill-mode: both;
+}
+
+
+@-moz-keyframes christmasStreet2 {
+	0%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0);visibility:visible;opacity:1; }
+	50% { transform: translate3d(0%,0,0); -webkit-transform: translate3d(0%,0,0);visibility:visible; opacity:1;}
+	99.997%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0);visibility:visible; opacity:1;}
+	99.998%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0; }
+	99.999%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0;}
+	100%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0);visibility:hidden;opacity:1;}
+}
+
+@-webkit-keyframes christmasStreet2 {
+	0%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0);visibility:visible;opacity:1; }
+	50% { transform: translate3d(0%,0,0); -webkit-transform: translate3d(0%,0,0);visibility:visible; opacity:1;}
+	99.997%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0);visibility:visible; opacity:1;}
+	99.998%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0; }
+	99.999%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0;}
+	100%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0);visibility:hidden;opacity:1;}
+}
+
+@-ms-keyframes christmasStreet2 {
+	0%  { -ms-transform: translate3d(100%,0,0);visibility:visible;opacity:1; }
+	50% { -ms-transform: translate3d(0%,0,0);visibility:visible; opacity:1;}
+	99.997%  { -ms-transform: translate3d(-100%,0,0);visibility:visible; opacity:1;}
+	99.998%  { -ms-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0; }
+	99.999%  { -ms-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0;}
+	100%  { -ms-transform: translate3d(100%,0,0);visibility:hidden;opacity:1;}
+}
+
+/***********************************************/
+
+
+
+
+
+
+
+/***************************************/
+
+.foreground1 {
+	z-index:99;
+	position:absolute;
+	visibility:hidden;
+	width:350%;
+	height:0;
+	padding-bottom: 33%;
+	left:0%;
+	bottom:0%;
+
+	background: url(../images/christmas_foreground1.svg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+
+	transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	-webkit-transform: translate3d(0,0,0);
+	-ms-transform: translate3d(0,0,0);
+
+	/*-moz-animation:foreground1 145s linear infinite;
+	-webkit-animation:foreground1 145s linear infinite;*/
+
+	-webkit-animation-name: foreground1;
+	-moz-animation-name: foreground1;
+	animation-name: foreground1;
+	-ms-animation-name: foreground1;
+
+
+	-webkit-animation-duration: 145s;
+	-moz-animation-duration: 145s;
+	animation-duration: 145s;
+	-ms-animation-duration: 145s;
+
+	-webkit-animation-timing-function: linear;
+	-moz-animation-timing-function: linear;
+	animation-timing-function: linear;
+	-ms-animation-timing-function: linear;
+
+	-webkit-animation-iteration-count: infinite;
+	-moz-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+	-ms-animation-iteration-count: infinite;
+
+	-webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+	-ms-animation-fill-mode: forwards;
+}
+
+
+@-moz-keyframes foreground1 {
+	0%  { transform: translate3d(0%,0,0); -webkit-transform: translate3d(0%,0,0); visibility:visible;}
+	50%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden; opacity:1;}
+	50.001%  { transform: translate3d(-100%,500%,0); -webkit-transform: translate3d(-100%,500%,0); visibility:hidden;opacity:0; }
+
+	50.002%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0); visibility:visible; opacity:1; }
+	100%  { transform: translate3d(-0.01%,0,0); -webkit-transform: translate3d(-0.01%,0,0);  visibility:visible; opacity:1;}
+}
+
+@-webkit-keyframes foreground1 {
+	0%  { transform: translate3d(0%,0,0); -webkit-transform: translate3d(0%,0,0); visibility:visible;}
+	50%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden; opacity:1;}
+	50.001%  { transform: translate3d(-100%,500%,0); -webkit-transform: translate3d(-100%,500%,0); visibility:hidden;opacity:0; }
+
+	50.002%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0); visibility:visible; opacity:1; }
+	100%  { transform: translate3d(-0.01%,0,0); -webkit-transform: translate3d(-0.01%,0,0);  visibility:visible; opacity:1;}
+}
+
+@-ms-keyframes foreground1 {
+	0%  { transform: translate3d(0%,0,0); -ms-transform: translate3d(0%,0,0); visibility:visible;}
+	50%  { transform: translate3d(-100%,0,0); -ms-transform: translate3d(-100%,0,0); visibility:hidden; opacity:1;}
+	50.001%  { transform: translate3d(-100%,500%,0); -ms-transform: translate3d(-100%,500%,0); visibility:hidden;opacity:0; }
+
+	50.002%  { transform: translate3d(100%,0,0); -ms-transform: translate3d(100%,0,0); visibility:visible; opacity:1; }
+	100%  { transform: translate3d(-0.01%,0,0); -ms-transform: translate3d(-0.01%,0,0);  visibility:visible; opacity:1;}
+}
+
+
+
+
+
+.foreground2 {
+	z-index:999;
+	position:absolute;
+	visibility:hidden;
+	width:350%;
+	height:0;
+	padding-bottom: 33%;
+	left:0%;
+	bottom:0%;
+
+	background: url(../images/christmas_foreground2.svg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+
+	transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	-webkit-transform: translate3d(0,0,0);
+	-ms-transform: translate3d(0,0,0);
+
+	/*-moz-animation:foreground2 145s linear infinite;
+	-webkit-animation:foreground2 145s linear infinite;*/
+
+	-webkit-animation-name: foreground2;
+	-moz-animation-name: foreground2;
+	animation-name: foreground2;
+	-ms-animation-name: foreground2;
+
+	-webkit-animation-duration: 145s;
+	-moz-animation-duration: 145s;
+	animation-duration: 145s;
+	-ms-animation-duration: 145s;
+
+	-webkit-animation-timing-function: linear;
+	-moz-animation-timing-function: linear;
+	animation-timing-function: linear;
+	-ms-animation-timing-function: linear;
+
+	-webkit-animation-iteration-count: infinite;
+	-moz-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+	-ms-animation-iteration-count: infinite;
+
+	-webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+	-ms-animation-fill-mode: both;
+}
+
+
+@-moz-keyframes foreground2 {
+	0%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0);visibility:visible;opacity:1; }
+	50% { transform: translate3d(0%,0,0); -webkit-transform: translate3d(0%,0,0);visibility:visible; opacity:1;}
+	99.997%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0);visibility:visible; opacity:1;}
+	99.998%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0; }
+	99.999%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0;}
+	100%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0);visibility:hidden;opacity:1;}
+}
+
+@-webkit-keyframes foreground2 {
+	0%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0);visibility:visible;opacity:1; }
+	50% { transform: translate3d(0%,0,0); -webkit-transform: translate3d(0%,0,0);visibility:visible; opacity:1;}
+	99.997%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0);visibility:visible; opacity:1;}
+	99.998%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0; }
+	99.999%  { transform: translate3d(-100%,0,0); -webkit-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0;}
+	100%  { transform: translate3d(100%,0,0); -webkit-transform: translate3d(100%,0,0);visibility:hidden;opacity:1;}
+}
+
+@-ms-keyframes foreground2 {
+	0%  { transform: translate3d(100%,0,0); -ms-transform: translate3d(100%,0,0);visibility:visible;opacity:1; }
+	50% { transform: translate3d(0%,0,0); -ms-transform: translate3d(0%,0,0);visibility:visible; opacity:1;}
+	99.997%  { transform: translate3d(-100%,0,0); -ms-transform: translate3d(-100%,0,0);visibility:visible; opacity:1;}
+	99.998%  { transform: translate3d(-100%,0,0); -ms-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0; }
+	99.999%  { transform: translate3d(-100%,0,0); -ms-transform: translate3d(-100%,0,0); visibility:hidden;opacity:0;}
+	100%  { transform: translate3d(100%,0,0); -ms-transform: translate3d(100%,0,0);visibility:hidden;opacity:1;}
+}
+
+
+
+
+
+
+
+
+
+
+.christmasWheelsBox {
+	position:absolute;
+	left:50%; top:50%; -webkit-transform: translate(-50%, -50%);/* Chrome, Safari, Opera */ -ms-transform:translate(-50%, -50%);/* IE 9 */ transform: translate(-50%, -50%);
+	z-index:5;
+	width: 100%;
+	height: 0;
+	padding-bottom: 23.0%;
+	overflow:hidden;
+
+}
+
+
+
+/*
+==============================================
+christmasWheel1     Made by Lambert Group
+==============================================
+*/
+.christmasWheel1 {
+	padding:0;
+	position:absolute;
+	left:17.5%;
+	top:33%;
+	z-index:5;
+	width: 7.19%;
+	height: 0;
+	padding-bottom: 7.19%;
+	background-image: url(../images/hand_mill2.png);
+
+	background-position: center center;
+	background-repeat: no-repeat;
+
+	background-size:100%;
+
+	-webkit-animation-name: christmasWheel1;
+	animation-name: christmasWheel1;
+
+	-webkit-animation-duration: 21s;
+	animation-duration: 21s;
+
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+
+	-webkit-animation-timing-function:linear;/*ease ease-in ease-out ease-in-out*/
+	animation-timing-function:linear;
+
+	-webkit-animation-iteration-count: infinite;/*number|initial|inherit*/
+	animation-iteration-count: infinite;
+
+}
+
+
+@-moz-keyframes christmasWheel1 {
+   from { -moz-transform: rotate(1440deg); }
+   to { -moz-transform: rotate(0deg); }
+}
+
+@-webkit-keyframes christmasWheel1 {
+   from { -webkit-transform: rotate(1440deg); }
+   to { -webkit-transform: rotate(0deg); }
+}
+
+@-o-keyframes christmasWheel1 {
+   from { -o-transform: rotate(1440deg); }
+   to { -o-transform: rotate(0deg); }
+}
+
+@keyframes christmasWheel1 {
+   from { transform: rotate(1440deg); }
+   to { transform: rotate(0deg); }
+}
+
+/*************************************************************************************************************************************************/
+
+
+
+
+/******************NEW**************************/
+.christmasWhiteBox {
+	position:absolute;
+	left:50%; top:50%; -webkit-transform: translate(-50%, 50%);/* Chrome, Safari, Opera */ -ms-transform:translate(-50%, 50%);/* IE 9 */ transform: translate(-50%, 50%);
+	z-index:2;
+	width: 100%;
+	height: 0;
+	padding-bottom: 12.5%;
+	overflow:hidden;
+}
+
+
+.christmasWhiteMiddle1 {
+	z-index:2;
+	position:absolute;
+	width:100%;
+	height:0;
+	padding-bottom: 10.7%;
+	left:0%;
+	bottom:0%;
+	background:#d2d6ff;
+	background-size: 100%;
+	background-position:bottom center;
+	background-repeat: repeat-x;
+}
+
+.christmasWhiteBox2 {
+	position:absolute;
+	left:50%; top:50%; -webkit-transform: translate(-50%, -92%);/* Chrome, Safari, Opera */ -ms-transform:translate(-50%, -92%);/* IE 9 */ transform: translate(-50%, -92%);
+	z-index:1;
+	width: 100%;
+	height: 0;
+	padding-bottom: 200.0%;
+	overflow:hidden;
+}
+
+.christmasWhiteMiddle2 {
+	z-index:1;
+	position:absolute;
+	width:100%;
+	height:0;
+	padding-bottom: 200.0%;
+	left:0%;
+	bottom:0%;
+	background: url(../images/bgWhiteMiddleOK.png);
+	background-position:bottom center;
+	background-repeat: repeat-x;
+}
+
+
+.christmasTheMoon {
+	z-index:5;
+	position:absolute;
+	visibility:hidden;
+	width:15%;
+	height:0;
+	padding-bottom:15.0%;
+	right:15%;
+	top:3%;
+	background: url(../images/the_moon.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position:top center;
+
+	transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	-webkit-transform: translate3d(0,0,0);
+
+	/*-moz-animation:christmasStreet1 145s linear infinite;
+	-webkit-animation:christmasStreet1 145s linear infinite;*/
+
+	-webkit-animation-name: christmasMoon;
+	-moz-animation-name: christmasMoon;
+	animation-name: christmasMoon;
+
+	-webkit-animation-duration: 2s;
+	-moz-animation-duration: 2s;
+	animation-duration: 2s;
+
+	-webkit-animation-timing-function: linear;
+	-moz-animation-timing-function: linear;
+	animation-timing-function: linear;
+
+	-webkit-animation-iteration-count: 1
+	-moz-animation-iteration-count: 1
+	animation-iteration-count: 1
+
+	-webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+
+@-moz-keyframes christmasMoon {
+	0%  { transform: translatey(50%); -webkit-transform: translatey(50%); visibility:visible; opacity:0;}
+
+	100%  { transform: translatey(0%); -webkit-transform: translatey(0%); visibility:visible; opacity:1;}
+}
+
+@-webkit-keyframes christmasMoon {
+	0%  { transform: translatey(50%); -webkit-transform: translatey(50%); visibility:visible; opacity:0;}
+
+	100%  { transform: translatey(0%); -webkit-transform: translatey(0%); visibility:visible; opacity:1;}
+}
+
+
+
+
+/* SNOWING */
+/* originally authored by Brad Knutson */
+
+/*
+=======================
+snow1
+=======================
+*/
+
+.snow1 {
+    width:100%;
+    height:1570px;
+	background: url(../images/snow1.png);
+
+	/*-webkit-animation:3s;
+	-moz-animation-delay: 3s;
+	-ms-animation-delay: 3s;
+	animation-delay: 3s;*/
+
+	-webkit-animation: snow1 12s linear 0s infinite normal;
+	-moz-animation: snow1 12s linear 0s infinite normal;
+	-ms-animation: snow1 12s linear 0s infinite normal;
+	animation: snow1 12s linear 0s infinite normal;
+
+	-moz-animation-fill-mode: both;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+
+}
+
+
+@keyframes snow1 {
+	0% {background-position:0px 0px;}
+	100% {background-position: -300px 300px;}
+}
+
+@-moz-keyframes snow1 {
+	0% {background-position: 0px 0px;}
+	100% {background-position: -300px 300px;}
+}
+
+@-webkit-keyframes snow1 {
+	0% {background-position: 0px 0px;}
+	100% {background-position:-300px 300px;}
+}
+
+@-ms-keyframes snow1 {
+	0% {background-position: 0px 0px;}
+	100% {background-position: -300px 300px;}
+}
+
+
+
+/*
+==============================================
+snow2
+==============================================
+*/
+
+.snow2 {
+    width:100%;
+    height:1570px;
+	background: url(../images/snow2.png);
+
+	/*-webkit-animation:2.5s;
+	-moz-animation-delay: 2.5s;
+	-ms-animation-delay: 2.5s;
+	animation-delay: 2.5s;*/
+
+	-webkit-animation: snow2 23s linear 0s infinite normal;
+	-moz-animation: snow2 23s linear 0s infinite normal;
+	-ms-animation: snow2 23s linear 0s infinite normal;
+	animation: snow2 23s linear 0s infinite normal;
+
+	-moz-animation-fill-mode: both;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+
+}
+
+
+@keyframes snow2 {
+	0% {background-position: 0px 0px;}
+	100% {background-position: 400px 400px;}
+}
+
+@-moz-keyframes snow2 {
+	0% {background-position:0px 0px;}
+	100% {background-position: 400px 400px;}
+}
+
+@-webkit-keyframes snow2 {
+	0% {background-position: 0px 0px;}
+	100% {background-position: 400px 400px;}
+}
+
+@-ms-keyframes snow2 {
+	0% {background-position: 0px 0px;}
+	100% {background-position: 400px 400px;}
+}
+
+
+
+
+/*
+==============================================
+snow3
+==============================================
+*/
+
+.snow3 {
+	width:100%;
+    height:1570px;
+	background: url(../images/snow3.png);
+
+	/*-webkit-animation:2s;
+	-moz-animation-delay: 2s;
+	-ms-animation-delay: 2s;
+	animation-delay: 2s;*/
+
+	-webkit-animation: snow3 18s linear 0s infinite normal;
+	-moz-animation: snow3 18s linear 0s infinite normal;
+	-ms-animation: snow3 18s linear 0s infinite normal;
+	animation: snow3 18s linear 0s infinite normal;
+
+	-moz-animation-fill-mode: both;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+
+}
+
+
+@keyframes snow3 {
+	0% {background-position: 0px 0px;}
+	100% {background-position: 500px 1000px;}
+}
+
+@-moz-keyframes snow3 {
+	0% {background-position:0px 0px;}
+	100% {background-position: 500px 1000px;}
+}
+
+@-webkit-keyframes snow3 {
+	0% {background-position: 0px 0px;}
+	100% {background-position: 500px 1000px;}
+}
+
+@-ms-keyframes snow3 {
+	0% {background-position: 0px 0px;}
+	100% {background-position: 500px 1000px;}
+}
+
+
+
+
+
+
+
+
+
+
+.lbg1_ImageOnly {
+	position:absolute;
+	z-index:5;
+	top:0px;
+	padding:0px;
+	font-size:14px;
+	line-height:0px;
+	margin:0px;
+}
+
+
+
+.fadeInAnimation {
+width:100%;
+    height:1570px;
+
+	-moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    -ms-filter: fliph; /*IE*/
+    filter: fliph; /*IE*/
+
+
+    -webkit-animation: fadein 16s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 16s; /* Firefox < 16 */
+        -ms-animation: fadein 16s; /* Internet Explorer */
+         -o-animation: fadein 16s; /* Opera < 12.1 */
+            animation: fadein 16s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
+
+
+
+.frontBlueBox {
+	position:absolute;
+	left:50%; top:50%; -webkit-transform: translate(-50%, 10%);/* Chrome, Safari, Opera */ -ms-transform:translate(-50%, 10%);/* IE 9 */ transform: translate(-50%, 10%);
+	z-index:1;
+	width: 100%;
+	height: 100%;
+	overflow:hidden;
+	background-color:#8f98ff;
+
+}
+
+
+
+.fadeInAnimation2 {
+        /*width:100%;
+
+        -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    -ms-filter: fliph;
+    filter: fliph; IE*/
+
+
+    -webkit-animation: fadein2 16s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein2 16s; /* Firefox < 16 */
+        -ms-animation: fadein2 16s; /* Internet Explorer */
+         -o-animation: fadein2 16s; /* Opera < 12.1 */
+            animation: fadein2 16s;
+}
+
+@keyframes fadein2 {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein2 {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein2 {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein2 {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein2 {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}

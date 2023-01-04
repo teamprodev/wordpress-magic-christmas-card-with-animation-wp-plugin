@@ -1,0 +1,128 @@
+#lbg_logo{
+	background:url(../images/christmas_card_1_icon_large.png) top left no-repeat;
+	background-position:5px,10px;
+	padding:0px 0px 0px 43px;
+	margin-bottom:10px;
+}
+.lbg_list-1 {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	line-height:27px;
+	margin: 0 0 1.5em 0;
+}
+
+.lbg_list-1 li {
+	background-image: url(../images/list-1.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	padding-left: 25px;
+}
+.lbg_list-1 a {
+	text-decoration:underline;
+}
+.lbg_subtitle {
+	color:#21759b;
+	font-weight:bold;
+	font-size:14px;
+}
+.lbg_regGray {
+	font-size:12px;
+	color:#999999;
+	font-style:italic;
+}
+
+/** SORTABLE **/
+
+#lbg_audio6_html5_shoutcast_sortable { list-style-type: none; margin: 0; padding: 0; width: 100%; }
+#lbg_audio6_html5_shoutcast_sortable li { margin: 0 5px 5px 5px; padding: 9px 0px 11px 0px; font-size: 12px; text-indent:10px; /*height: 1.5em;*/ }
+html>body #lbg_audio6_html5_shoutcast_sortable li { /*height: 1.5em;*/ line-height: 1.2em; }
+	.ui-state-highlight { height: 1.5em; line-height: 1.2em; }
+#lbg_audio6_html5_shoutcast_sortable a {
+	color:#21759b;
+	font-size:11px;
+	font-weight:normal;
+	text-decoration:underline;
+}
+#lbg_audio6_html5_shoutcast_sortable a:hover {
+	color:#FF0000;
+}
+#lbg_audio6_html5_shoutcast_sortable .options {
+	float:right;
+	padding: 0px 10px 0px 0px;
+}
+#lbg_audio6_html5_shoutcast_sortable .cursor_move {
+	cursor:move;
+}
+.toogle-btn-closed {
+	width:33px;
+	height:31px;
+	background:url(../images/icons/open_div.gif) 0 -5px no-repeat;
+	float:right;
+	cursor: pointer;
+}
+.toogle-btn-opened {
+	width:33px;
+	height:31px;
+	background:url(../images/icons/close_div.gif) 0 -5px no-repeat;
+	float:right;
+	cursor: pointer;
+}
+.toggleable {
+	clear:both;
+	display:none;
+	background:#FFFFFF;
+	padding:10px;
+	margin-bottom:-11px;
+	font-weight:normal;
+	cursor:default;
+}
+.ajax-message {
+	padding:5px;
+	text-align:center;
+}
+#lbg_audio6_html5_shoutcast_updating_witness {
+	display:none;
+	position: fixed;
+	bottom: 40px;
+	right:20px;
+	padding:3px 5px;
+	border:1px solid #CCCCCC;
+}
+
+.small_text {
+	font-size:12px;
+	font-weight:normal;
+	font-style:italic;
+}
+
+#previewDialog {
+	width:950px !important;
+	/*height:600px;
+	border:1px solid #F00;*/
+}
+#previewDialogIframe {
+	min-height:650px !important;
+}
+.ui-dialog { /* dialog window over the WP-admin menu */
+    z-index:1000000 !important; /* The default is 100. !important overrides the default. */
+		max-width: 990px !important;
+}
+#dialogDataSaved {
+	display:none;
+	overflow:hidden;
+}
+.bringElemToFront {
+	position:relative;
+	z-index:100;
+}
+
+
+
+/* for slider for settings (transparency, volume etc. */
+.ui-slider-range {
+	background:#003399;
+}
+
+.ui-accordion-content {
+	height:auto !important;

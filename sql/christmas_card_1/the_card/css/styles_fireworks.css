@@ -1,0 +1,83 @@
+/*
+
+Single element CSS fireworks
+A Pen By Captain Anonymous
+
+
+
+Single element CSS fireworks
+A Pen By Keith Clark
+
+
+*/
+
+.pyro:before, .pyro:after {
+  /*content: ' \00BA ';*/
+  content: ' \2055 ';
+  font-size: 16px;
+  color: transparent;
+  position: absolute;
+  top: 0;
+  text-shadow: -19px -81px red, 112px -284px red, -235px -297px red, 125px 415px red, -121px -87px red, -94px -52px red, -114px 3px red, -13px 326px red, 125px -288px red, -76px 183px red, -181px 181px red, 215px -202px red, -8px 242px red, 78px 13px red, 149px 14px red, 225px 380px red, -6px 352px red, -12px -31px red, 24px -391px red, 60px 104px red, 142px 407px red, 204px -130px red, 226px 385px red, 163px 233px red, 188px -11px red, -152px -271px red, 9px 2px red, 92px -68px red, 125px -111px red, -152px -415px red, -60px -284px red, 9px 8px red, -83px 266px red, -43px 172px red, -239px 154px red, 6px 126px red, -223px 235px red, -72px 77px red, -254px 77px red, 245px 129px red, -74px -5px red, -23px 176px red, -16px -87px red, -278px -27px red, -56px -336px red, -29px 316px red, -100px -49px red, -158px -370px red, 317px -57px red, 27px 403px red, -8px -1px red, 349px -180px red, -155px -50px red, 99px -93px red, -137px 29px red, 192px -318px red, -51px 309px red, -22px 34px red, 213px 308px red, -132px -87px red, -38px 8px red, 145px -93px red, 186px 231px red, 390px 70px red, -140px 228px red, -203px 231px red, 71px 417px red, -327px 51px red, -119px 8px red, -31px -48px red, 113px 237px red, -140px -105px red, 115px 2px red, -132px -420px red, -87px 370px red, 6px -225px red, 256px -53px red, -117px -451px red, 205px 12px red, -250px 284px red, -28px -241px red;
+  animation: 2s  bang      ease-out  infinite backwards, 2s  gravity   ease-out   infinite backwards, 10s  position  linear    infinite forwards;
+}
+
+.pyro:after {
+  animation-delay: -5s;
+  animation-duration: 2.5s, 2.5s, 12.5s;
+}
+
+@keyframes bang {
+  0%, 5% {
+    text-shadow: 0 0 transparent;
+  }
+  35% {
+    text-shadow: 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff, 0 0 #fff;
+  }
+}
+@keyframes gravity {
+  0%, 5% {
+    font-size: 120%;
+    opacity: 0;
+    transform: translateY(340px);
+    animation-timing-function: ease-out;
+  }
+  35% {
+    transform: translateY(0px);
+    opacity: 1;
+    animation-timing-function: ease-in;
+  }
+  100% {
+    transform: translateY(1000px);
+    opacity: 0;
+    font-size: 0;
+    animation-timing-function: ease-in;
+  }
+}
+@keyframes position {
+  0%, 20% {
+    margin-top: 50vh;
+    margin-left: 60vw;
+    filter: hue-rotate(0deg);
+  }
+  20.1%, 40% {
+    margin-top: 10vh;
+    margin-left: 30vw;
+    filter: hue-rotate(72deg);
+  }
+  40.1%, 60% {
+    margin-top: 30vh;
+    margin-left: 40vw;
+    filter: hue-rotate(144deg);
+  }
+  60.1%, 80% {
+    margin-top: 60vh;
+    margin-left: 70vw;
+    filter: hue-rotate(216deg);
+  }
+  80.1%, 100% {
+    margin-top: 30vh;
+    margin-left: 80vw;
+    filter: hue-rotate(288deg);
+  }
+}

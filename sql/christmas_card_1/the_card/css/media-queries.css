@@ -1,0 +1,2025 @@
+/************************************************************************************
+smaller than 1600  -  1600x1200
+*************************************************************************************/
+@media screen and (max-width: 1601px) {
+
+.xsidewalk {
+	padding-top:32%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:0%; -webkit-transform: translate(-50%, 0%);  -ms-transform:translate(-50%, 0%);  transform: translate(-50%, 0%);
+}
+
+.MerryChristmasBg {
+	width:65%;
+	padding-top: 11%;
+}
+
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 50px;
+	line-height:85px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 30px;
+	line-height:20px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 80px;
+	line-height:90px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 22px;
+	line-height:26px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 14px;
+	line-height:16px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 14px;
+	line-height:16px;
+}
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:4%; -webkit-transform: translate(-50%, 4%);  -ms-transform:translate(-50%, 4%);  transform: translate(-50%, 4%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:2%;
+
+}
+
+.weddingSocial img {
+	max-width:35px;
+	max-height:35px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+
+
+/************************************************************************************
+smaller than 1366  -  1366x768
+*************************************************************************************/
+@media screen and (max-width: 1367px) {
+
+.xsidewalk {
+	padding-top:22%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:1%; -webkit-transform: translate(-50%, 1%);  -ms-transform:translate(-50%, 1%);  transform: translate(-50%, 1%);
+}
+
+.MerryChristmasBg {
+	width:65%;
+	padding-top:7%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 43px;
+	line-height:72px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 28px;
+	line-height:24px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 60px;
+	line-height:70px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 16px;
+	line-height:20px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 12px;
+	line-height:16px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 12px;
+	line-height:16px;
+}
+
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:5%; -webkit-transform: translate(-50%, 5%);  -ms-transform:translate(-50%, 5%);  transform: translate(-50%, 5%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:2%;
+
+}
+
+.weddingSocial img {
+	max-width:25px;
+	max-height:25px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+
+
+/************************************************************************************
+smaller than 1280  -  1280x800
+*************************************************************************************/
+@media screen and (max-width: 1281px) {
+
+.xsidewalk {
+	padding-top:22%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:2%; -webkit-transform: translate(-50%, 2%);  -ms-transform:translate(-50%, 2%);  transform: translate(-50%, 2%);
+}
+
+.MerryChristmasBg {
+	width:70%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 45px;
+	line-height:75px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 30px;
+	line-height:40px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 95px;
+	line-height:95px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 20px;
+	line-height:36px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 15px;
+	line-height:28px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 15px;
+	line-height:28px;
+}
+
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:8%; -webkit-transform: translate(-50%, 8%);  -ms-transform:translate(-50%, 8%);  transform: translate(-50%, 8%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:2%;
+
+}
+
+.weddingSocial img {
+	max-width:25px;
+	max-height:25px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+
+
+
+/************************************************************************************
+smaller than 1200  -  1200x1600
+*************************************************************************************/
+@media screen and (max-width: 1201px) {
+
+.pinkdiv {
+	padding-bottom:55%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.xsidewalk {
+	padding-top:57%;
+}
+
+.MerryChristmasBox {
+	left:50%; top:5%; -webkit-transform: translate(-50%, 5%);  -ms-transform:translate(-50%, 5%);  transform: translate(-50%, 5%);
+}
+
+.MerryChristmasBg {
+	width:80%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 55px;
+	line-height:85px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 50px;
+	line-height:120px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 120px;
+	line-height:140px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 25px;
+	line-height:45px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 16px;
+	line-height:30px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 16px;
+	line-height:30px;
+}
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:10%; -webkit-transform: translate(-50%, 10%);  -ms-transform:translate(-50%, 10%);  transform: translate(-50%, 10%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:4%;
+
+}
+
+.weddingSocial img {
+	max-width:40px;
+	max-height:40px;
+}
+
+.landscape{display:none;}
+.portrait{display:block;}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/************************************************************************************
+smaller than 1024  -  1024x768
+*************************************************************************************/
+@media screen and (max-width: 1025px) {
+
+.pinkdiv {
+	padding-bottom:40%;
+}
+
+
+.xsidewalk {
+	padding-top:26%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:2%; -webkit-transform: translate(-50%, 2%);  -ms-transform:translate(-50%, 2%);  transform: translate(-50%, 2%);
+}
+
+.MerryChristmasBg {
+	width:80%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 40px;
+	line-height:65px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 30px;
+	line-height:45px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 70px;
+	line-height:65px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 18px;
+	line-height:32px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 14px;
+	line-height:24px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 14px;
+	line-height:24px;
+}
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:6%; -webkit-transform: translate(-50%, 6%);  -ms-transform:translate(-50%, 6%);  transform: translate(-50%, 6%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:2%;
+
+}
+
+.weddingSocial img {
+	max-width:23px;
+	max-height:23px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+
+/************************************************************************************
+smaller than 966  -  966x603
+*************************************************************************************/
+@media screen and (max-width: 967px) {
+
+.xsidewalk {
+	padding-top:22%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:3%; -webkit-transform: translate(-50%, 3%);  -ms-transform:translate(-50%, 3%);  transform: translate(-50%, 3%);
+}
+
+.MerryChristmasBg {
+	width:80%;
+	padding-top: 11%;
+}
+
+.the_card_1_wrapper h1 {
+ 	font-size: 35px;
+	line-height:55px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 30px;
+	line-height:40px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 70px;
+	line-height:65px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 16px;
+	line-height:26px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 13px;
+	line-height:23px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 13px;
+	line-height:23px;
+}
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:6%; -webkit-transform: translate(-50%, 6%);  -ms-transform:translate(-50%, 6%);  transform: translate(-50%, 6%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:2%;
+
+}
+
+.weddingSocial img {
+	max-width:25px;
+	max-height:25px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+
+/************************************************************************************
+smaller than 906  -  906x601
+*************************************************************************************/
+@media screen and (max-width: 907px) {
+
+.pinkdiv {
+	padding-bottom:30%;
+}
+
+.xsidewalk {
+	padding-top:25%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:3%; -webkit-transform: translate(-50%, 3%);  -ms-transform:translate(-50%, 3%);  transform: translate(-50%, 3%);
+}
+
+.MerryChristmasBg {
+	width:80%;
+	padding-top: 11%;
+}
+
+.the_card_1_wrapper h1 {
+ 	font-size: 35px;
+	line-height:55px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 30px;
+	line-height:40px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 70px;
+	line-height:65px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 16px;
+	line-height:26px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 13px;
+	line-height:23px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 13px;
+	line-height:23px;
+}
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:6%; -webkit-transform: translate(-50%, 6%);  -ms-transform:translate(-50%, 6%);  transform: translate(-50%, 6%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:2%;
+
+}
+
+.weddingSocial img {
+	max-width:25px;
+	max-height:25px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+
+
+
+/************************************************************************************
+smaller than 853  -  853x533
+*************************************************************************************/
+@media screen and (max-width: 854px) {
+
+.pinkdiv {
+	padding-bottom:30%;
+}
+
+.xsidewalk {
+	padding-top:25%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:3%; -webkit-transform: translate(-50%, 3%);  -ms-transform:translate(-50%, 3%);  transform: translate(-50%, 3%);
+}
+
+.MerryChristmasBg {
+	width:80%;
+	padding-top: 11%;
+}
+
+.the_card_1_wrapper h1 {
+ 	font-size: 32px;
+	line-height:55px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 30px;
+	line-height:30px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 65px;
+	line-height:65px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 15px;
+	line-height:22px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 11px;
+	line-height:20px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 11px;
+	line-height:20px;
+}
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:6%; -webkit-transform: translate(-50%, 6%);  -ms-transform:translate(-50%, 6%);  transform: translate(-50%, 6%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:2%;
+
+}
+
+.weddingSocial img {
+	max-width:25px;
+	max-height:25px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+
+
+
+
+/************************************************************************************
+smaller than 800  -  800x1280
+*************************************************************************************/
+@media screen and (max-width: 801px) {
+
+.pinkdiv {
+	padding-bottom:76%;
+}
+
+
+.xsidewalk {
+	padding-top:71%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:5%; -webkit-transform: translate(-50%, 5%);  -ms-transform:translate(-50%, 5%);  transform: translate(-50%, 5%);
+}
+
+.MerryChristmasBg {
+	width:90%;
+	padding-top: 11%;
+}
+
+.the_card_1_wrapper h1 {
+ 	font-size: 35px;
+	line-height:55px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 30px;
+	line-height:100px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 95px;
+	line-height:95px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 22px;
+	line-height:40px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 17px;
+	line-height:28px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 17px;
+	line-height:28px;
+}
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:10%; -webkit-transform: translate(-50%, 10%);  -ms-transform:translate(-50%, 10%);  transform: translate(-50%, 10%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:6%;
+
+}
+
+.weddingSocial img {
+	max-width:30px;
+	max-height:30px;
+}
+
+.landscape{display:none;}
+.portrait{display:block;}
+
+}
+
+
+
+
+
+/************************************************************************************
+smaller than 768    768x1024
+*************************************************************************************/
+@media screen and (max-width: 768px) {
+
+.xsidewalk {
+	padding-top:55%;
+}
+
+
+.MerryChristmasBox {
+	left:50%; top:4%; -webkit-transform: translate(-50%, 4%);  -ms-transform:translate(-50%, 4%);  transform: translate(-50%, 4%);
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBg {
+	width:90%;
+	padding-top: 11%;
+}
+
+.the_card_1_wrapper h1 {
+ 	font-size: 34px;
+	line-height:55px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 40px;
+	line-height:100px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 80px;
+	line-height:80px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 19px;
+	line-height:32px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 14px;
+	line-height:26px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 14px;
+	line-height:26px;
+}
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:10%; -webkit-transform: translate(-50%, 10%);  -ms-transform:translate(-50%, 10%);  transform: translate(-50%, 10%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:3.5%;
+
+}
+
+.weddingSocial img {
+	max-width:25px;
+	max-height:25px;
+}
+
+.landscape{display:none;}
+.portrait{display:block;}
+
+}
+
+
+
+/************************************************************************************
+smaller than 736    736 x 414
+*************************************************************************************/
+@media screen and (max-width: 737px) {
+
+.pinkdiv {
+	padding-bottom:36%;
+}
+
+.xsidewalk {
+	padding-top:18%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:2%; -webkit-transform: translate(-50%, 2%);  -ms-transform:translate(-50%, 2%);  transform: translate(-50%, 2%);
+}
+
+.MerryChristmasBg {
+	width:70%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 22px;
+	line-height:45px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 20px;
+	line-height:18px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 50px;
+	line-height:50px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 13px;
+	line-height:20px;
+	padding-bottom:5px !important;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 10px;
+	line-height:13px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 10px;
+	line-height:13px;
+}
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:6%; -webkit-transform: translate(-50%, 6%);  -ms-transform:translate(-50%, 6%);  transform: translate(-50%, 6%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:0%;
+
+}
+
+.weddingSocial img {
+	max-width:12px;
+	max-height:12px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+
+/************************************************************************************
+smaller than 667    667x375
+*************************************************************************************/
+@media screen and (max-width: 668px) {
+
+.xsidewalk {
+	padding-top:18%;
+}
+
+.MerryChristmasBox {
+	left:50%; top:2%; -webkit-transform: translate(-50%, 2%);  -ms-transform:translate(-50%, 2%);  transform: translate(-50%, 2%);
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBg {
+	width:70%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 22px;
+	line-height:40px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 20px;
+	line-height:15px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 45px;
+	line-height:47px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 12px;
+	line-height:19px;
+	padding-bottom:3px !important;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 9px;
+	line-height:13px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 9px;
+	line-height:13px;
+}
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:6%; -webkit-transform: translate(-50%, 6%);  -ms-transform:translate(-50%, 6%);  transform: translate(-50%, 6%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:1.5%;
+
+}
+
+.weddingSocial img {
+	max-width:12px;
+	max-height:12px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+
+
+/************************************************************************************
+smaller than 640     640 x 320
+*************************************************************************************/
+@media screen and (max-width: 641px) {
+
+.xsidewalk {
+	padding-top:15%;
+}
+
+.MerryChristmasBox {
+	left:50%; top:1%; -webkit-transform: translate(-50%, 1%);  -ms-transform:translate(-50%, 1%);  transform: translate(-50%, 1%);
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBg {
+	width:70%;
+	padding-top: 14%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 20px;
+	line-height:32x;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 19px;
+	line-height:14px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 40px;
+	line-height:45px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 10px;
+	line-height:12px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 8px;
+	line-height:11px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 8px;
+	line-height:11px;
+}
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:5%; -webkit-transform: translate(-50%, 5%);  -ms-transform:translate(-50%, 5%);  transform: translate(-50%, 5%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:0%;
+
+}
+
+.weddingSocial img {
+	max-width:12px;
+	max-height:12px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+
+
+/************************************************************************************
+smaller than 601  -  601x906
+*************************************************************************************/
+@media screen and (max-width: 603px) {
+
+.pinkdiv {
+	padding-bottom:82% !important;
+}
+
+.xsidewalk {
+	padding-top:62%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:4%; -webkit-transform: translate(-50%, 4%);  -ms-transform:translate(-50%, 4%);  transform: translate(-50%, 4%);
+}
+
+.MerryChristmasBg {
+	width:100%;
+	padding-top: 11%;
+}
+
+.the_card_1_wrapper h1 {
+ 	font-size: 27px !important;
+	line-height:45px !important;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 30px !important;
+	line-height:70px !important;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 70px !important;
+	line-height:70px !important;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 20px !important;
+	line-height:35px !important;
+	padding-bottom:30px !important;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 15px !important;
+	line-height:26px !important;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 15px !important;
+	line-height:26px !important;
+}
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:5%; -webkit-transform: translate(-50%, 5%);  -ms-transform:translate(-50%, 5%);  transform: translate(-50%, 5%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:6%;
+
+}
+
+.weddingSocial img {
+	max-width:25px;
+	max-height:25px;
+}
+
+.landscape{display:none;}
+.portrait{display:block;}
+
+}
+
+
+
+/************************************************************************************
+smaller than 600  -  600 x 384
+*************************************************************************************/
+@media screen and (max-width: 602px) {
+
+.pinkdiv {
+	padding-bottom:33%;
+}
+
+.xsidewalk {
+	padding-top:22%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:2%; -webkit-transform: translate(-50%, 2%);  -ms-transform:translate(-50%, 2%);  transform: translate(-50%, 2%);
+}
+
+.MerryChristmasBg {
+	width:70%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 17px;
+	line-height:35px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 20px;
+	line-height:20px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 42px;
+	line-height:45px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 11px;
+	line-height:18px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 8px;
+	line-height:13px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 8px;
+	line-height:13px;
+}
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:5%; -webkit-transform: translate(-50%, 5%);  -ms-transform:translate(-50%, 5%);  transform: translate(-50%, 5%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:0%;
+
+}
+
+.weddingSocial img {
+	max-width:12px;
+	max-height:12px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+/************************************************************************************
+smaller than 568  -  568 x 320
+*************************************************************************************/
+@media screen and (max-width: 569px) {
+
+.pinkdiv {
+	padding-bottom:25% !important;
+}
+
+
+.xsidewalk {
+	padding-top:58% !important;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:2%; -webkit-transform: translate(-50%, 2%);  -ms-transform:translate(-50%, 2%);  transform: translate(-50%, 2%);
+}
+
+.MerryChristmasBg {
+	width:70%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size:19px !important;
+	line-height:35px !important;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 20px !important;
+	line-height:16px !important;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 40px !important;
+	line-height:45px !important;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 10px !important;
+	line-height:16px !important;
+	padding-bottom:2px !important;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 9px !important;
+	line-height:13px !important;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 9px !important;
+	line-height:13px !important;
+}
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:5%; -webkit-transform: translate(-50%, 5%);  -ms-transform:translate(-50%, 5%);  transform: translate(-50%, 5%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:0%;
+
+}
+
+.weddingSocial img {
+	max-width:12px;
+	max-height:12px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+/************************************************************************************
+smaller than 533  -  533 x 853
+*************************************************************************************/
+@media screen and (max-width: 534px) {
+
+.xsidewalk {
+	padding-top:70%;
+}
+
+.pinkdiv {
+	padding-bottom:70%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:5%; -webkit-transform: translate(-50%, 5%);  -ms-transform:translate(-50%, 5%);  transform: translate(-50%, 5%);
+}
+
+.MerryChristmasBg {
+	width:70%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 23px;
+	line-height:40px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 33px;
+	line-height:90px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 53px;
+	line-height:45px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 16px;
+	line-height:28px;
+	padding-bottom:20px !important;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 13px;
+	line-height:19px;
+}
+
+
+.the_card_1_wrapper h6 {
+	font-size: 13px;
+	line-height:19px;
+}
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:5%; -webkit-transform: translate(-50%, 5%);  -ms-transform:translate(-50%, 5%);  transform: translate(-50%, 5%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:0%;
+
+}
+
+.weddingSocial img {
+	max-width:12px;
+	max-height:12px;
+}
+
+.landscape{display:none;}
+.portrait{display:block;}
+
+}
+
+
+
+
+
+
+
+
+
+/************************************************************************************
+smaller than 480  -  480 x 320
+*************************************************************************************/
+@media screen and (max-width: 481px) {
+
+.xsidewalk {
+	padding-top:23%;
+}
+
+.pinkdiv {
+	padding-bottom:30%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+
+	left:50%; top:2%; -webkit-transform: translate(-50%, 2%);  -ms-transform:translate(-50%, 2%);  transform: translate(-50%, 2%);
+}
+
+.MerryChristmasBg {
+	width:80%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 20px;
+	line-height:35px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 20px;
+	line-height:20px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 40px;
+	line-height:40px;
+}
+
+
+.the_card_1_wrapper h4 {
+	font-size: 2.2vw !important;
+	line-height:9px !important;
+	padding-bottom: 9px !important;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 1.21vw !important;
+	line-height:5px !important;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 1.21vw !important;
+	line-height:5px !important;
+}
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:6%; -webkit-transform: translate(-50%, 6%);  -ms-transform:translate(-50%, 6%);  transform: translate(-50%, 6%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:2.5%;
+
+}
+
+.weddingSocial img {
+	max-width:12px;
+	max-height:12px;
+}
+
+.landscape{display:block;}
+.portrait{display:none;}
+
+}
+
+
+
+
+
+
+
+
+/************************************************************************************
+smaller than 414  -  414 x 736
+*************************************************************************************/
+@media screen and (max-width: 415px) {
+
+.pinkdiv {
+	padding-bottom:70%;
+}
+
+.xsidewalk {
+	padding-top:78%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:4%; -webkit-transform: translate(-50%, 4%);  -ms-transform:translate(-50%, 4%);  transform: translate(-50%, 4%);
+}
+
+
+.MerryChristmasBg {
+	width:90%;
+	padding-top: 11%;
+}
+
+.the_card_1_wrapper h1 {
+ 	font-size: 18px !important;
+	line-height:32px !important;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 25px !important;
+	line-height:80px !important;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 50px !important;
+	line-height:50px !important;
+}
+
+
+.the_card_1_wrapper h4 {
+	font-size: 3.5vw !important;
+	line-height:15px !important;
+	padding-bottom:10px !important;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 2.5vw !important;
+	line-height:11px !important;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 2.5vw !important;
+	line-height:11px !important;
+}
+
+
+
+/*
+
+h4 {
+	font-size: 13px !important;
+	line-height:22px !important;
+	padding-bottom:16px !important;
+}
+
+
+h5 {
+	font-size: 11px !important;
+	line-height:20px !important;
+}
+
+
+h6 {
+	font-size: 11px !important;
+	line-height:20px !important;
+}
+
+*/
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:10%; -webkit-transform: translate(-50%, 10%);  -ms-transform:translate(-50%, 10%);  transform: translate(-50%, 10%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:6%;
+
+}
+
+.weddingSocial img {
+	max-width:25px;
+	max-height:25px;
+}
+
+.landscape{display:none;}
+.portrait{display:block;}
+
+}
+
+
+
+
+
+/************************************************************************************
+smaller than 384
+*************************************************************************************/
+@media screen and (max-width: 385px) {
+
+.xsidewalk {
+	padding-top:67%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:4%; -webkit-transform: translate(-50%, 4%);  -ms-transform:translate(-50%, 4%);  transform: translate(-50%, 4%);
+}
+
+.MerryChristmasBg {
+	width:90%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 16px;
+	line-height:26px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 20px;
+	line-height:50px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 35px;
+	line-height:40px;
+}
+
+
+.the_card_1_wrapper h4 {
+	font-size: 3.5vw !important;
+	line-height:15px !important;
+	padding-bottom:10px !important;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 2.5vw !important;
+	line-height:11px !important;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 2.5vw !important;
+	line-height:11px !important;
+}
+
+
+
+/*
+
+h4 {
+	font-size: 10px;
+	line-height:16px;
+}
+
+
+h5 {
+	font-size: 10px;
+	line-height:16px;
+}
+
+
+h6 {
+	font-size: 10px;
+	line-height:16px;
+}
+*/
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:7%; -webkit-transform: translate(-50%, 7%);  -ms-transform:translate(-50%, 7%);  transform: translate(-50%, 7%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:3%;
+
+}
+
+.weddingSocial img {
+	max-width:18px;
+	max-height:18px;
+}
+
+.landscape{display:none;}
+.portrait{display:block;}
+
+}
+
+
+
+
+
+
+
+/************************************************************************************
+smaller than 375    375x667
+*************************************************************************************/
+@media screen and (max-width: 376px) {
+
+.pinkdiv {
+	padding-bottom:78% !important;
+}
+
+.xsidewalk {
+	padding-top:78%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:4%; -webkit-transform: translate(-50%, 4%);  -ms-transform:translate(-50%, 4%);  transform: translate(-50%, 4%);
+}
+
+.MerryChristmasBg {
+	width:90%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 16px !important;
+	line-height:27px !important;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 20px;
+	line-height:50px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 40px;
+	line-height:40px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 3.5vw !important;
+	line-height:19px !important;
+	padding-bottom:10px !important;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 2.5vw !important;
+	line-height:14px !important;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 2.5vw !important;
+	line-height:14px !important;
+}
+
+
+
+/*
+h4 {
+	font-size: 14px !important;
+	line-height:15px;
+}
+
+
+h5 {
+	font-size: 9px;
+	line-height:13px;
+}
+
+h6 {
+	font-size: 9px;
+	line-height:13px;
+}
+
+*/
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:7%; -webkit-transform: translate(-50%, 7%);  -ms-transform:translate(-50%, 7%);  transform: translate(-50%, 7%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:3%;
+
+}
+
+.weddingSocial img {
+	max-width:18px;
+	max-height:18px;
+}
+
+.landscape{display:none;}
+.portrait{display:block;}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/************************************************************************************
+smaller than 320
+*************************************************************************************/
+@media screen and (max-width: 321px) {
+
+.pinkdiv {
+	padding-bottom:70% !important;
+}
+
+.xsidewalk {
+	padding-top:73%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:4%; -webkit-transform: translate(-50%, 4%);  -ms-transform:translate(-50%, 4%);  transform: translate(-50%, 4%);
+}
+
+.MerryChristmasBg {
+	width:83%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 14px !important;
+	line-height:24px !important;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 20px;
+	line-height:35px !important;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 45px !important;
+	line-height:45px !important;
+}
+
+
+.the_card_1_wrapper h4 {
+	font-size: 3.2vw !important;
+	line-height:12px !important;
+	padding-bottom:5px !important;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 2.5vw !important;
+	line-height:10px !important;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 2.5vw !important;
+	line-height:10px !important;
+}
+
+
+/*
+
+h4 {
+	font-size: 12px !important;
+	line-height:18px !important;
+	padding-bottom: 7px !important;
+}
+
+
+h5 {
+	font-size: 9px !important;
+	line-height:13px !important;
+}
+
+h6 {
+	font-size: 9px !important;
+	line-height:13px !important;
+}
+
+*/
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:7%; -webkit-transform: translate(-50%, 7%);  -ms-transform:translate(-50%, 7%);  transform: translate(-50%, 7%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:3%;
+
+}
+
+.weddingSocial img {
+	max-width:18px;
+	max-height:18px;
+}
+
+.landscape{display:none;}
+.portrait{display:block;}
+
+}
+
+
+
+
+
+
+
+
+/************************************************************************************
+smaller than 240
+*************************************************************************************/
+@media screen and (max-width: 240px) {
+
+.xsidewalk {
+	padding-top:53%;
+}
+
+.MerryChristmas {
+	top: 0px;
+}
+
+.MerryChristmasBox {
+	left:50%; top:4%; -webkit-transform: translate(-50%, 4%);  -ms-transform:translate(-50%, 4%);  transform: translate(-50%, 4%);
+}
+
+.MerryChristmasBg {
+	width:90%;
+	padding-top: 11%;
+}
+
+
+.the_card_1_wrapper h1 {
+ 	font-size: 16px;
+	line-height:26px;
+}
+
+.the_card_1_wrapper h2 {
+	font-size: 20px;
+	line-height:50px;
+}
+
+.the_card_1_wrapper h3 {
+	font-size: 35px;
+	line-height:40px;
+}
+
+.the_card_1_wrapper h4 {
+	font-size: 10px;
+	line-height:16px;
+}
+
+
+.the_card_1_wrapper h5 {
+	font-size: 10px;
+	line-height:16px;
+}
+
+.the_card_1_wrapper h6 {
+	font-size: 10px;
+	line-height:16px;
+}
+
+
+
+.weddingAdressBox {
+	width: 90%;
+	left:50%; bottom:7%; -webkit-transform: translate(-50%, 7%);  -ms-transform:translate(-50%, 7%);  transform: translate(-50%, 7%);
+}
+
+
+.xweddingSocialBox ul {
+	padding-bottom:3%;
+
+}
+
+.weddingSocial img {
+	max-width:18px;
+	max-height:18px;
+}
+
+.landscape{display:none;}
+.portrait{display:block;}
+
+}
